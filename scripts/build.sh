@@ -5,6 +5,7 @@ branch=${1:-master}
 #git clone $URL
 #echo $branch
 #cd JavaTest
+echo "In Script"
 git checkout master
 mvn clean install -DskipTests=True
 #cd ..
