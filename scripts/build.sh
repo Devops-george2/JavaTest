@@ -5,7 +5,7 @@ branch=${1:-master}
 #git clone $URL
 #echo $branch
 #cd JavaTest
-git checkout $branch
+git checkout master
 mvn clean install -DskipTests=True
 #cd ..
 #rm -rf JavaTest
