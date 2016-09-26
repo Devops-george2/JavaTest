@@ -2,6 +2,7 @@
 URL="https://github.com/Devops-george2/JavaTest"
 mkdir -p build
 cd build
+echo $(pwd)
 branch=${1:-master}
 git clone $URL
 echo $branch
