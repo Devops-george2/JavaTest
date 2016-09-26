@@ -20,5 +20,3 @@ target/
 .gitignore
 .idea/
 JavaTest.iml
-pom.xml
-src/
