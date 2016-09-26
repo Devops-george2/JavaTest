@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
 ### Java template
-=======
->>>>>>> ba0967bc85c752fca2fad083ba56fa8d4aa9d14f
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -20,3 +17,8 @@ hs_err_pid*
 *.iml
 target/
 
+.gitignore
+.idea/
+JavaTest.iml
+pom.xml
+src/
